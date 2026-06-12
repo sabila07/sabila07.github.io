@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.sabila07.billingwifi",
+      "sha256_cert_fingerprints": [
+        "C2:47:F1:F7:7E:AC:35:34:C2:91:65:56:C5:73:FE:71:F0:3C:8E:01:0D:72:74:27:76:8D:A7:B2:DE:5E:73:C4"
+      ]
+    }
+  }
+]
